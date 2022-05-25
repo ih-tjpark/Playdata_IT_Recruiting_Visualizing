@@ -1,4 +1,4 @@
-# Tech Visualize Website
+# IT_Recruiting_Visualizing Website
 
 Encore Playdata Bigdata Engineer - Mini Project 02
 
